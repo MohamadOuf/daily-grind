@@ -127,6 +127,7 @@ case 0:
         
         coffee = {
             color: "Green", 
+            name : "Green Tea",
             pic : "images/Green.jpg",
             alt : "A pic for drip coffee",
             day : "Sunday",
